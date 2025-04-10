@@ -8,6 +8,7 @@ namespace zd
 {
     public class Hotel
     {
+        public int count {  get; set; }
         public int id { get; set; }
         public string Name { get; set; }
         public int CountOfStars { get; set; }
