@@ -14,7 +14,8 @@ namespace zd
         public int CountOfStars { get; set; }
         public string CountryName { get; set; }
         public string HotelImage { get; set; }
-        
+        public string HotelImageyyy { get; set; }
+
 
     }
 }
